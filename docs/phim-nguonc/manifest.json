@@ -1,0 +1,11 @@
+{
+  "id": "phim-nguonc",
+  "name": "Nguon C",
+  "version": "1.0.0",
+  "entry": "./plugin.js",
+  "permissions": {
+    "network": [
+      "https://phim.nguonc.com/**"
+    ]
+  }
+}
