@@ -2,7 +2,7 @@
   "id": "phim-nguonc",
   "name": "Nguon C",
   "version": "1.0.0",
-  "entry": "./plugin.js",
+  "entry": "./plugin_pro.js",
   "permissions": {
     "network": [
       "https://phim.nguonc.com/**"
